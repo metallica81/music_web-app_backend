@@ -1,5 +1,5 @@
 <?php
-$host = 'metallzh_test';
+$host = 'localhost';
 $dbname = 'metallzh_test';
 $username = 'metallzh_test';
 $password = 'Zhopakota337!';
