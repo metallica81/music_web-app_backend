@@ -1,1 +1,3 @@
-sfdsdfsdfdsfsdf
+<?php
+echo "Привет с сервера Beget!";
+?>
