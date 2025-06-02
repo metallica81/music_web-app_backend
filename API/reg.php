@@ -1,15 +1,31 @@
 <?php
-session_start(); 
-header("Content-Type: application/json; charset=UTF-8");
-
-// Отключаем вывод ошибок
+// Лог ошибок
+ini_set('log_errors', 1);
+ini_set('error_log', __DIR__ . '/php_errors.log');
 ini_set('display_errors', 0);
 error_reporting(E_ALL);
-date_default_timezone_set('UTC');
 
-// Проверяем, есть ли CSRF-токен
-if (!isset($_SERVER['HTTP_X_CSRF_TOKEN']) || !isset($_SESSION['csrf_token']) || $_SESSION['csrf_token'] !== $_SERVER['HTTP_X_CSRF_TOKEN']) {
-    http_response_code(403);
+session_start();
+
+file_put_contents(__DIR__ . '/debug.log', "---\n", FILE_APPEND);
+file_put_contents(__DIR__ . '/debug.log', "PHPSESSID (reg): " . session_id() . "\n", FILE_APPEND);
+file_put_contents(__DIR__ . '/debug.log', "Заголовок X-CSRF-Token: " . ($_SERVER['HTTP_X_CSRF_TOKEN'] ?? 'нет') . "\n", FILE_APPEND);
+file_put_contents(__DIR__ . '/debug.log', "Сессия CSRF-токена: " . ($_SESSION['csrf_token'] ?? 'нет') . "\n", FILE_APPEND);
+
+header('Access-Control-Allow-Origin: https://localhost:3000'); 
+header('Access-Control-Allow-Credentials: true');
+header('Access-Control-Allow-Headers: Content-Type, X-CSRF-Token');
+header('Access-Control-Allow-Methods: POST, OPTIONS');
+
+if ($_SERVER['REQUEST_METHOD'] === 'OPTIONS') {
+    http_response_code(204);
+    exit;
+}
+
+$csrf_header = $_SERVER['HTTP_X_CSRF_TOKEN'] ?? '';
+$csrf_session = $_SESSION['csrf_token'] ?? '';
+
+if (!$csrf_header || $csrf_header !== $csrf_session) {
     echo json_encode([
         "success" => false,
         "error" => "Неверный CSRF-токен"
@@ -17,84 +33,51 @@ if (!isset($_SERVER['HTTP_X_CSRF_TOKEN']) || !isset($_SESSION['csrf_token']) || 
     exit;
 }
 
-// Получаем данные
 $data = json_decode(file_get_contents('php://input'), true);
+file_put_contents(__DIR__ . '/debug.log', "JSON тело: " . file_get_contents('php://input') . "\n", FILE_APPEND);
 
-// Проверяем поля
-if (!isset($data['login'], $data['mail'], $data['password'])) {
-    echo json_encode([
-        "success" => false,
-        "error" => "Не хватает данных"
-    ]);
+$login = trim($data['login'] ?? '');
+$mail = filter_var(trim($data['mail'] ?? ''), FILTER_VALIDATE_EMAIL);
+$password = $data['password'] ?? '';
+
+if (!$login || !$mail || strlen($password) < 8) {
+    http_response_code(400);
+    echo json_encode(['success' => false, 'error' => 'Все поля обязательны']);
     exit;
 }
 
-$login = trim(strip_tags($data['login']));
-$mail = filter_var(trim(strip_tags($data['mail'])), FILTER_VALIDATE_EMAIL);
-$password = $data['password'];
-
-// Валидация логина
-if (empty($login) || strlen($login) < 3 || strlen($login) > 32 || !preg_match('/^[a-zA-Z0-9_\-]+$/', $login)) {
-    echo json_encode([
-        "success" => false,
-        "error" => "Имя должно быть от 3 до 32 символов и содержать только буквы, цифры, _ или -"
-    ]);
-    exit;
-}
-
-// Валидация email
-if (!$mail) {
-    echo json_encode([
-        "success" => false,
-        "error" => "Неверный формат email"
-    ]);
-    exit;
-}
-
-// Валидация пароля
-if (strlen($password) < 8 || !preg_match('/[A-Za-z]/', $password) || !preg_match('/[0-9]/', $password)) {
-    echo json_encode([
-        "success" => false,
-        "error" => "Пароль должен быть не менее 8 символов и содержать буквы и цифры"
-    ]);
-    exit;
-}
-
-// Подключение к базе
-require_once 'config.php';
+require_once '../API/config.php';
 
 try {
-    // Проверка на существование пользователя
-    $stmt = $pdo->prepare("SELECT id FROM users WHERE mail = ? OR login = ?");
-    $stmt->execute([$mail, $login]);
+    file_put_contents(__DIR__ . '/debug.log', "Проверяем занятость логина/почты...\n", FILE_APPEND);
+    $stmt = $pdo->prepare("SELECT id FROM users WHERE login = ? OR mail = ?");
+    $stmt->execute([$login, $mail]);
 
     if ($stmt->fetch()) {
-        echo json_encode([
-            "success" => false,
-            "error" => "Пользователь с таким email или логином уже существует"
-        ]);
+        echo json_encode(['success' => false, 'error' => 'Логин или email заняты']);
         exit;
     }
 
-    // Хэшируем пароль
     $hash = password_hash($password, PASSWORD_ARGON2ID);
+    file_put_contents(__DIR__ . '/debug.log', "Хэш пароля создан\n", FILE_APPEND);
 
-    // Регистрация пользователя
     $stmt = $pdo->prepare("INSERT INTO users (login, mail, password_hash) VALUES (?, ?, ?)");
+    
     if ($stmt->execute([$login, $mail, $hash])) {
-        unset($_SESSION['csrf_token']); // Удаляем после использования
+        unset($_SESSION['csrf_token']);
+
         echo json_encode([
             "success" => true,
-            "message" => "Регистрация успешна",
-            "redirect" => "/login.html"
+            "message" => "Регистрация успешна!"
         ]);
     } else {
-        throw new Exception("Ошибка при добавлении в БД");
+        throw new Exception("Ошибка добавления в БД");
     }
 } catch (Exception $e) {
+    http_response_code(500);
+    file_put_contents(__DIR__ . '/debug.log', "Ошибка Exception: " . $e->getMessage() . "\n", FILE_APPEND);
     echo json_encode([
         "success" => false,
-        "error" => "Произошла ошибка на сервере"
+        "error" => "Ошибка сервера: " . $e->getMessage()
     ]);
 }
-?>
