@@ -12,7 +12,7 @@ file_put_contents(__DIR__ . '/debug.log', "PHPSESSID (reg): " . session_id() . "
 file_put_contents(__DIR__ . '/debug.log', "Заголовок X-CSRF-Token: " . ($_SERVER['HTTP_X_CSRF_TOKEN'] ?? 'нет') . "\n", FILE_APPEND);
 file_put_contents(__DIR__ . '/debug.log', "Сессия CSRF-токена: " . ($_SESSION['csrf_token'] ?? 'нет') . "\n", FILE_APPEND);
 
-header('Access-Control-Allow-Origin: https://localhost:3000'); 
+header('Access-Control-Allow-Origin: http://localhost:3000'); 
 header('Access-Control-Allow-Credentials: true');
 header('Access-Control-Allow-Headers: Content-Type, X-CSRF-Token');
 header('Access-Control-Allow-Methods: POST, OPTIONS');

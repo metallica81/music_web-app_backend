@@ -9,14 +9,12 @@ if (!isset($_SESSION['csrf_token'])) {
 // Установка куки с параметрами, которые позволяют работу с localhost:3000
 setcookie('PHPSESSID', session_id(), [
     'path' => '/',
-    'domain' => 'test-music-app.ru',
-    'secure' => true,
-    'httponly' => true,
-    'samesite' => 'None'
+    'domain' => 'localhost',
+    'httponly' => true
 ]);
 
 // CORS
-header('Access-Control-Allow-Origin: https://localhost:3000');
+header('Access-Control-Allow-Origin: http://localhost:3000');
 header('Access-Control-Allow-Credentials: true');
 header('Content-Type: application/json');
 
