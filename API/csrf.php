@@ -6,11 +6,12 @@ if (!isset($_SESSION['csrf_token'])) {
     $_SESSION['csrf_token'] = bin2hex(random_bytes(64));
 }
 
-// Установка куки с параметрами, которые позволяют работу с localhost:3000
+// Установка куки
 setcookie('PHPSESSID', session_id(), [
     'path' => '/',
     'domain' => 'localhost',
-    'httponly' => true
+    'httponly' => true,
+    'samesite' => 'Lax'
 ]);
 
 // CORS
@@ -24,4 +25,8 @@ file_put_contents(__DIR__ . '/debug.log', "PHPSESSID (csrf): " . session_id() . 
 file_put_contents(__DIR__ . '/debug.log', "Сгенерированный CSRF: " . $_SESSION['csrf_token'] . "\n", FILE_APPEND);
 
 // Ответ
-echo json_encode(['csrf_token' => $_SESSION['csrf_token']]);
+echo json_encode([
+    'success' => true,
+    'csrf_token' => $_SESSION['csrf_token']
+]);
+?>
