@@ -61,3 +61,1077 @@ JSON тело: {"login":"metallzh2223123","mail":"focus21212@gmail.com","passwor
 Успешное подключение к БД
 Проверяем занятость логина/почты...
 Хэш пароля создан
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+---
+PHPSESSID (reg): 2b7e51297e84bcc465879e3bf7fede00
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+Сессия CSRF-токена: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+JSON тело: {"login":"89041493698","mail":"usdfja;f@gmail.com","password":"asdfafasf213125342"}
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+---
+PHPSESSID (reg): ca9521a36075395b81c3a2015d8ac723
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+Сессия CSRF-токена: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+JSON тело: {"login":"metallica81","mail":"usdfja;f@gmail.com","password":"sdfasfaffa23453245dfsfg"}
+---
+PHPSESSID (reg): dbd1e47394746d6f32425e2cc01ec241
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+Сессия CSRF-токена: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+JSON тело: {"login":"metallica81","mail":"uadfafsdfja;f@gmail.com","password":"sdfasfaffa23453245dfsfg"}
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+Сессия CSRF-токена: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+JSON тело: {"login":"metallica81sdasf","mail":"uadfafsdfja;f@gmail.com","password":"sdfasfaffa23453245dfsfg"}
+---
+PHPSESSID (reg): 2969b9175d96a8d9590f4aa78eea05e9
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+Сессия CSRF-токена: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+JSON тело: {"login":"metallica81sdasf","mail":"uadfafsdfja;f@gmail.com","password":"sdfasfaffa23453245dfsfgSS"}
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+---
+PHPSESSID (reg): 140a2dbf54b8edb27a0d356f43505042
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+Сессия CSRF-токена: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+JSON тело: {"login":"metallica81sadfa","mail":"usdfjaasdfasfas;f@gmail.com","password":"asdfasf45235234"}
+---
+PHPSESSID (reg): ab20c1cddfb029480f5a919076c61c9e
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+Сессия CSRF-токена: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+JSON тело: {"login":"metallica81sadfa","mail":"usdfjaasdfasfas;f@gmail.com","password":"fafdasfafaFSFS42532452"}
+---
+PHPSESSID (reg): 381750e4e62a652fb17e292d485331c1
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+Сессия CSRF-токена: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+JSON тело: {"login":"metallica81sadfa","mail":"usdfjaasdfasfasf@gmail.com","password":"fafdasfafaFSFS42532452"}
+Ошибка подключения к БД: could not find driver
+---
+PHPSESSID (reg): 3258a7e63fddb8e3f1c3bca5099d6866
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+Сессия CSRF-токена: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+JSON тело: {"login":"metallica81sadfa","mail":"dafaf@gmail.com","password":"fafdasfafaFSFS42532452"}
+Ошибка подключения к БД: could not find driver
+---
+PHPSESSID (reg): 6b01191ac1afc9f93dfbc59aaaa1acfd
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+Сессия CSRF-токена: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+JSON тело: {"login":"metallica81sadfa","mail":"dafaf@gmail.com","password":"fafdasfafaFSFS42532452"}
+Ошибка подключения к БД: could not find driver
+---
+PHPSESSID (reg): 6ec0d5f0f23b5f15844ab141bde00253
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+Сессия CSRF-токена: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+JSON тело: {"login":"sdfaffasfasfafasfsafaf","mail":"dafaf@gmail.com","password":"fafdasfafaFSFS42532452"}
+Ошибка подключения к БД: could not find driver
+---
+PHPSESSID (reg): 1a0bceed99d7c920698612a37da42cf0
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+Сессия CSRF-токена: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+JSON тело: {"login":"sdfaffasfasfafasfsafaf","mail":"dafa:f@gmail.com","password":"fafdasfafaFSFS42532452"}
+---
+PHPSESSID (reg): a679e0a6092468cfdc7f9b59e9fee136
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+Сессия CSRF-токена: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+JSON тело: {"login":"sdfaffasfasfafasfsafaf","mail":"dafaf@gmail.com","password":"fafdasfafaFSFS42532452"}
+Ошибка подключения к БД: could not find driver
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+---
+PHPSESSID (reg): a1d83e659737afef757173880cefc15a
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+Сессия CSRF-токена: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+JSON тело: {"login":"metallidfdafsafasfasf","mail":"sdfasdfasfasfasf@gmail.com","password":"asdfsafsa233245"}
+Ошибка подключения к БД: could not find driver
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+---
+PHPSESSID (reg): fab43de5183965c7909c2a5358f120f5
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+Сессия CSRF-токена: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+JSON тело: {"login":"sdaffasdsdafsaf","mail":"usdfjaf@gmail.com","password":"fasfdsfasfff524352345"}
+Ошибка подключения к БД: could not find driver
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+---
+PHPSESSID (reg): 2bd6dc54b06e58c8eeac57d545d9b43e
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+Сессия CSRF-токена: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+JSON тело: {"login":"metallica81sdfasfasfdsa","mail":"usdfjaf@gmail.com","password":"asdfsafasfasf3453452352335353"}
+Ошибка подключения к БД: could not find driver
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+---
+PHPSESSID (reg): 72baf87a03209455d872094e3c817c11
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+Сессия CSRF-токена: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+JSON тело: {"login":"metallica81dsa;fa","mail":"usdfj@gmail.com","password":"s;alfa;s245324"}
+Ошибка подключения к БД: could not find driver
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+---
+PHPSESSID (reg): cb54089b4cc7892d54af44c88c5e90c8
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+Сессия CSRF-токена: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+JSON тело: {"login":"metallica81sddfs","mail":"usdfjaf@gmail.com","password":"f;asfjasfl34525523"}
+Ошибка подключения к БД: could not find driver
+---
+PHPSESSID (reg): 5c9048960b2f37313f0a89d37b4747ad
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+Сессия CSRF-токена: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+JSON тело: {"login":"metallica81sddfs","mail":"usdfjaf@gmail.com","password":"f;asfjasfl34525523"}
+Ошибка подключения к БД: could not find driver
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+---
+PHPSESSID (reg): d0aa4b7eb8ae6777834c5cec65b7a86f
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+Сессия CSRF-токена: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+JSON тело: {"login":"metallica81sadfa","mail":"usdfjaf@gmail.com","password":"a;df;laslfakj230952"}
+Ошибка подключения к БД: could not find driver
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+---
+PHPSESSID (reg): b6ac8e04fd30119ad249c0e29c32b81a
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+Сессия CSRF-токена: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+JSON тело: {"login":"metallica81sadfa","mail":"usdfjaf@gmail.com","password":"sa;f;asfasjklfks43523525"}
+Ошибка подключения к БД: could not find driver
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+---
+PHPSESSID (reg): 5d1e5a70287014ef83bf6c17b9c68b74
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+Сессия CSRF-токена: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+JSON тело: {"login":"metallica81sadfa","mail":"usdfjaf@gmail.com","password":"s;daflasldf873492"}
+Ошибка подключения к БД: SQLSTATE[HY000] [1045] Access denied for user 'metallzh_test'@'95.163.8.184' (using password: YES)
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+---
+PHPSESSID (reg): 29c9a7d0af57187935af7251c7beef2e
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+Сессия CSRF-токена: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+JSON тело: {"login":"metallica81sadfa","mail":"usdfjaf@gmail.com","password":"salflksdfjlka30947325"}
+Ошибка подключения к БД: SQLSTATE[HY000] [1045] Access denied for user 'metallzh_test'@'95.163.8.184' (using password: YES)
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+---
+PHPSESSID (reg): 9b7c7d82ee10df5410dcd0fa079ba706
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+Сессия CSRF-токена: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+JSON тело: {"login":"metallica81sadfa","mail":"usdfjaf@gmail.com","password":"sakl;jfasjldfa2307942"}
+Успешное подключение к БД
+Проверяем занятость логина/почты...
+Хэш пароля создан
+---
+PHPSESSID (reg): 653cb34b9cfa955bcbe1d5ac84654e6f
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): 90fdd0cb6516cf0bdba5477989e974e0
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): 40ba61aa6513bcc46fb7817f77ae37fb
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: fb0922c3448469718389d9ad9fb54074860594b5666cca67067bcee339afb2e3716bc20d690610c264d9087c92a5fc1513d73780fd7cefa79d7066d3b0f2f88c
+Сессия CSRF-токена: нет
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: fb0aca5997ae692e7a292ad0cc1ce6dbcd7cad7b1f126647a708522d809627899a40d6882e0b9eeb57980479cb81625d22216b92aea85ecdbacdc2da00d460a2
+---
+PHPSESSID (reg): 0b138b5879c408fa1c6a3a57d81c5f6b
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: fb0aca5997ae692e7a292ad0cc1ce6dbcd7cad7b1f126647a708522d809627899a40d6882e0b9eeb57980479cb81625d22216b92aea85ecdbacdc2da00d460a2
+Сессия CSRF-токена: fb0aca5997ae692e7a292ad0cc1ce6dbcd7cad7b1f126647a708522d809627899a40d6882e0b9eeb57980479cb81625d22216b92aea85ecdbacdc2da00d460a2
+JSON тело: {"login":"metallica81sadfaasdfs","mail":"usdfjsdfasfaf@gmail.com","password":"saj;flslsl8023942"}
+Успешное подключение к БД
+Проверяем занятость логина/почты...
+Хэш пароля создан
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: fb0aca5997ae692e7a292ad0cc1ce6dbcd7cad7b1f126647a708522d809627899a40d6882e0b9eeb57980479cb81625d22216b92aea85ecdbacdc2da00d460a2
+Сессия CSRF-токена: нет
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: 051b162a5f2b730be28221b6087e48745440fb64ea7e3dd9e4ac150c381f59e48fe7488add9322e9783ee87b3c5a1924d0a7becb8b8e439579ffdde071f4b5ee
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: 051b162a5f2b730be28221b6087e48745440fb64ea7e3dd9e4ac150c381f59e48fe7488add9322e9783ee87b3c5a1924d0a7becb8b8e439579ffdde071f4b5ee
+---
+PHPSESSID (reg): bbffbe65084c4fb26a447fdca066d452
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: 051b162a5f2b730be28221b6087e48745440fb64ea7e3dd9e4ac150c381f59e48fe7488add9322e9783ee87b3c5a1924d0a7becb8b8e439579ffdde071f4b5ee
+Сессия CSRF-токена: 051b162a5f2b730be28221b6087e48745440fb64ea7e3dd9e4ac150c381f59e48fe7488add9322e9783ee87b3c5a1924d0a7becb8b8e439579ffdde071f4b5ee
+JSON тело: {"login":"metallica81sadfasdfas","mail":"uasdfasfssdfjaf@gmail.com","password":"sfasfasdaf34532345325"}
+Ошибка подключения к БД: SQLSTATE[HY000] [1045] Access denied for user 'metallzh_test'@'176.195.112.159' (using password: YES)
+---
+PHPSESSID (reg): a1675cf059c36373512fbd220abf3f91
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: 051b162a5f2b730be28221b6087e48745440fb64ea7e3dd9e4ac150c381f59e48fe7488add9322e9783ee87b3c5a1924d0a7becb8b8e439579ffdde071f4b5ee
+Сессия CSRF-токена: 051b162a5f2b730be28221b6087e48745440fb64ea7e3dd9e4ac150c381f59e48fe7488add9322e9783ee87b3c5a1924d0a7becb8b8e439579ffdde071f4b5ee
+JSON тело: {"login":"metallica81sadfasdfas","mail":"uasdfasfssdfjaf@gmail.com","password":"sfasfasdaf34532345325"}
+Ошибка подключения к БД: SQLSTATE[HY000] [1045] Access denied for user 'metallzh_test'@'176.195.112.159' (using password: YES)
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: 051b162a5f2b730be28221b6087e48745440fb64ea7e3dd9e4ac150c381f59e48fe7488add9322e9783ee87b3c5a1924d0a7becb8b8e439579ffdde071f4b5ee
+---
+PHPSESSID (reg): 04253d414d203e62713445d7919f87b9
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: 051b162a5f2b730be28221b6087e48745440fb64ea7e3dd9e4ac150c381f59e48fe7488add9322e9783ee87b3c5a1924d0a7becb8b8e439579ffdde071f4b5ee
+Сессия CSRF-токена: 051b162a5f2b730be28221b6087e48745440fb64ea7e3dd9e4ac150c381f59e48fe7488add9322e9783ee87b3c5a1924d0a7becb8b8e439579ffdde071f4b5ee
+JSON тело: {"login":"metallica81sasdfasfasdfdfa","mail":"usdfjsdfafasdfaf@gmail.com","password":"dsfafadsa32452353523"}
+Ошибка подключения к БД: SQLSTATE[HY000] [1045] Access denied for user 'metallzh_test'@'176.195.112.159' (using password: YES)
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: 051b162a5f2b730be28221b6087e48745440fb64ea7e3dd9e4ac150c381f59e48fe7488add9322e9783ee87b3c5a1924d0a7becb8b8e439579ffdde071f4b5ee
+---
+PHPSESSID (reg): cbe38e19e13a5c3c79280016ed0fef29
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: 051b162a5f2b730be28221b6087e48745440fb64ea7e3dd9e4ac150c381f59e48fe7488add9322e9783ee87b3c5a1924d0a7becb8b8e439579ffdde071f4b5ee
+Сессия CSRF-токена: 051b162a5f2b730be28221b6087e48745440fb64ea7e3dd9e4ac150c381f59e48fe7488add9322e9783ee87b3c5a1924d0a7becb8b8e439579ffdde071f4b5ee
+JSON тело: {"login":"metallica81sasdfasffaadfa","mail":"usdfjasfafasdfasf@gmail.com","password":"sadfasfasdf2345234523425"}
+Ошибка подключения к БД: SQLSTATE[HY000] [1045] Access denied for user 'metallzh_test'@'176.195.112.159' (using password: YES)
+---
+PHPSESSID (reg): ec7224b5212a3b1f7c4db933292905cb
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: 051b162a5f2b730be28221b6087e48745440fb64ea7e3dd9e4ac150c381f59e48fe7488add9322e9783ee87b3c5a1924d0a7becb8b8e439579ffdde071f4b5ee
+Сессия CSRF-токена: 051b162a5f2b730be28221b6087e48745440fb64ea7e3dd9e4ac150c381f59e48fe7488add9322e9783ee87b3c5a1924d0a7becb8b8e439579ffdde071f4b5ee
+JSON тело: {"login":"metallica81sasdfasffaadfa","mail":"usdfjasfafasdfasf@gmail.com","password":"sadfasfasdf2345234523425"}
+Ошибка подключения к БД: SQLSTATE[HY000] [1045] Access denied for user 'metallzh_test'@'176.195.112.159' (using password: YES)
+---
+PHPSESSID (reg): 93e57a69f58ada1c0de1aec459b14280
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: 051b162a5f2b730be28221b6087e48745440fb64ea7e3dd9e4ac150c381f59e48fe7488add9322e9783ee87b3c5a1924d0a7becb8b8e439579ffdde071f4b5ee
+Сессия CSRF-токена: 051b162a5f2b730be28221b6087e48745440fb64ea7e3dd9e4ac150c381f59e48fe7488add9322e9783ee87b3c5a1924d0a7becb8b8e439579ffdde071f4b5ee
+JSON тело: {"login":"metallica81sasdfasffaadfa","mail":"usdfjasfafasdfasf@gmail.com","password":"sadfasfasdf2345234523425"}
+Успешное подключение к БД
+Проверяем занятость логина/почты...
+Хэш пароля создан
+---
+PHPSESSID (reg): b905c7e8ce8f3f7ba76f257cfd17c31a
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: 051b162a5f2b730be28221b6087e48745440fb64ea7e3dd9e4ac150c381f59e48fe7488add9322e9783ee87b3c5a1924d0a7becb8b8e439579ffdde071f4b5ee
+Сессия CSRF-токена: нет
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: 007646a6edad74c3286000cc1ca126ec7e202e8154d1321e326b5c61d232bca304c5f9d00dd1c7343deaa8b4fdc71c9b5cc4b186c8bb285eef37938c2d274435
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: 007646a6edad74c3286000cc1ca126ec7e202e8154d1321e326b5c61d232bca304c5f9d00dd1c7343deaa8b4fdc71c9b5cc4b186c8bb285eef37938c2d274435
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: 007646a6edad74c3286000cc1ca126ec7e202e8154d1321e326b5c61d232bca304c5f9d00dd1c7343deaa8b4fdc71c9b5cc4b186c8bb285eef37938c2d274435
+---
+PHPSESSID (reg): faa0902146c89c04344ad899488b5cef
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: 007646a6edad74c3286000cc1ca126ec7e202e8154d1321e326b5c61d232bca304c5f9d00dd1c7343deaa8b4fdc71c9b5cc4b186c8bb285eef37938c2d274435
+Сессия CSRF-токена: 007646a6edad74c3286000cc1ca126ec7e202e8154d1321e326b5c61d232bca304c5f9d00dd1c7343deaa8b4fdc71c9b5cc4b186c8bb285eef37938c2d274435
+JSON тело: {"login":"metsfafsadfaallica81sadfa","mail":"asdfauasdfafsdfasdfajaf@gmail.com","password":"asdfasfs3425325"}
+Успешное подключение к БД
+Проверяем занятость логина/почты...
+Хэш пароля создан
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: 625dba10a03ddbf3c4154343a32e2aff144b2a464bbf41ef9d7739a2e5dd145f89b5f954115806f389273b99d92e31b28dd82fbb6159a208dc64a4dc83571a54
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: 625dba10a03ddbf3c4154343a32e2aff144b2a464bbf41ef9d7739a2e5dd145f89b5f954115806f389273b99d92e31b28dd82fbb6159a208dc64a4dc83571a54
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: 625dba10a03ddbf3c4154343a32e2aff144b2a464bbf41ef9d7739a2e5dd145f89b5f954115806f389273b99d92e31b28dd82fbb6159a208dc64a4dc83571a54
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: 625dba10a03ddbf3c4154343a32e2aff144b2a464bbf41ef9d7739a2e5dd145f89b5f954115806f389273b99d92e31b28dd82fbb6159a208dc64a4dc83571a54
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: 625dba10a03ddbf3c4154343a32e2aff144b2a464bbf41ef9d7739a2e5dd145f89b5f954115806f389273b99d92e31b28dd82fbb6159a208dc64a4dc83571a54
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: 625dba10a03ddbf3c4154343a32e2aff144b2a464bbf41ef9d7739a2e5dd145f89b5f954115806f389273b99d92e31b28dd82fbb6159a208dc64a4dc83571a54
+---
+PHPSESSID (reg): 0b6a7fa473ce25c33925682ce39f2f6f
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: 625dba10a03ddbf3c4154343a32e2aff144b2a464bbf41ef9d7739a2e5dd145f89b5f954115806f389273b99d92e31b28dd82fbb6159a208dc64a4dc83571a54
+Сессия CSRF-токена: 625dba10a03ddbf3c4154343a32e2aff144b2a464bbf41ef9d7739a2e5dd145f89b5f954115806f389273b99d92e31b28dd82fbb6159a208dc64a4dc83571a54
+JSON тело: {"login":"metallicdsfasfaa81sadfa","mail":"usdfsadfsfjaf@gmail.com","password":"asdfas2353253"}
+Успешное подключение к БД
+Проверяем занятость логина/почты...
+Хэш пароля создан
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: 48cf8494432d737977ad42cb8da6ce364c52406849d5e4673d43b043e6609994f8932e2b58e1258e7187f1bc05ed050c8122ebd7ff39796c13e8f63ae960d191
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: 48cf8494432d737977ad42cb8da6ce364c52406849d5e4673d43b043e6609994f8932e2b58e1258e7187f1bc05ed050c8122ebd7ff39796c13e8f63ae960d191
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: 48cf8494432d737977ad42cb8da6ce364c52406849d5e4673d43b043e6609994f8932e2b58e1258e7187f1bc05ed050c8122ebd7ff39796c13e8f63ae960d191
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: 48cf8494432d737977ad42cb8da6ce364c52406849d5e4673d43b043e6609994f8932e2b58e1258e7187f1bc05ed050c8122ebd7ff39796c13e8f63ae960d191
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: 48cf8494432d737977ad42cb8da6ce364c52406849d5e4673d43b043e6609994f8932e2b58e1258e7187f1bc05ed050c8122ebd7ff39796c13e8f63ae960d191
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: 48cf8494432d737977ad42cb8da6ce364c52406849d5e4673d43b043e6609994f8932e2b58e1258e7187f1bc05ed050c8122ebd7ff39796c13e8f63ae960d191
+---
+PHPSESSID (reg): afcdf8070841a1a6305e76b0448e614c
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: 48cf8494432d737977ad42cb8da6ce364c52406849d5e4673d43b043e6609994f8932e2b58e1258e7187f1bc05ed050c8122ebd7ff39796c13e8f63ae960d191
+Сессия CSRF-токена: 48cf8494432d737977ad42cb8da6ce364c52406849d5e4673d43b043e6609994f8932e2b58e1258e7187f1bc05ed050c8122ebd7ff39796c13e8f63ae960d191
+JSON тело: {"login":"metallicsfasfdasfdasa81sadfa","mail":"usdfjasdfasfsafaf@gmail.com","password":"sdafasfd3245432532523"}
+Успешное подключение к БД
+Проверяем занятость логина/почты...
+Хэш пароля создан
+---
+PHPSESSID (reg): 0ac025e5d67f42020016e16686220ab7
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: 48cf8494432d737977ad42cb8da6ce364c52406849d5e4673d43b043e6609994f8932e2b58e1258e7187f1bc05ed050c8122ebd7ff39796c13e8f63ae960d191
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): a8487c1b32d584d2b27acba46af01ab7
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: 48cf8494432d737977ad42cb8da6ce364c52406849d5e4673d43b043e6609994f8932e2b58e1258e7187f1bc05ed050c8122ebd7ff39796c13e8f63ae960d191
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): 72d57883ccda8584d37fa2cb21e5d31d
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: 48cf8494432d737977ad42cb8da6ce364c52406849d5e4673d43b043e6609994f8932e2b58e1258e7187f1bc05ed050c8122ebd7ff39796c13e8f63ae960d191
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): d1f4394a2510de7353f82f905cccd39e
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: 48cf8494432d737977ad42cb8da6ce364c52406849d5e4673d43b043e6609994f8932e2b58e1258e7187f1bc05ed050c8122ebd7ff39796c13e8f63ae960d191
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): f35597837c2fe23ff0f66dd7279bd0b5
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: 48cf8494432d737977ad42cb8da6ce364c52406849d5e4673d43b043e6609994f8932e2b58e1258e7187f1bc05ed050c8122ebd7ff39796c13e8f63ae960d191
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: 48cf8494432d737977ad42cb8da6ce364c52406849d5e4673d43b043e6609994f8932e2b58e1258e7187f1bc05ed050c8122ebd7ff39796c13e8f63ae960d191
+Сессия CSRF-токена: нет
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: 7e9ac72191590d6456da4b61e93ed4995bbc51188b975229f77b84a400ed42e96a2ebe96f4e68be74cf341c0ea04324d6167866eea288bac52bd6ea1325d5226
+---
+PHPSESSID (reg): 07004213cc13eb0faf99b7d3e85a7c79
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: 7e9ac72191590d6456da4b61e93ed4995bbc51188b975229f77b84a400ed42e96a2ebe96f4e68be74cf341c0ea04324d6167866eea288bac52bd6ea1325d5226
+Сессия CSRF-токена: 7e9ac72191590d6456da4b61e93ed4995bbc51188b975229f77b84a400ed42e96a2ebe96f4e68be74cf341c0ea04324d6167866eea288bac52bd6ea1325d5226
+JSON тело: {"login":"","mail":"","password":""}
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: 7e9ac72191590d6456da4b61e93ed4995bbc51188b975229f77b84a400ed42e96a2ebe96f4e68be74cf341c0ea04324d6167866eea288bac52bd6ea1325d5226
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: 7e9ac72191590d6456da4b61e93ed4995bbc51188b975229f77b84a400ed42e96a2ebe96f4e68be74cf341c0ea04324d6167866eea288bac52bd6ea1325d5226
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: 7e9ac72191590d6456da4b61e93ed4995bbc51188b975229f77b84a400ed42e96a2ebe96f4e68be74cf341c0ea04324d6167866eea288bac52bd6ea1325d5226
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: 7e9ac72191590d6456da4b61e93ed4995bbc51188b975229f77b84a400ed42e96a2ebe96f4e68be74cf341c0ea04324d6167866eea288bac52bd6ea1325d5226
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: 7e9ac72191590d6456da4b61e93ed4995bbc51188b975229f77b84a400ed42e96a2ebe96f4e68be74cf341c0ea04324d6167866eea288bac52bd6ea1325d5226
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: 7e9ac72191590d6456da4b61e93ed4995bbc51188b975229f77b84a400ed42e96a2ebe96f4e68be74cf341c0ea04324d6167866eea288bac52bd6ea1325d5226
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: 7e9ac72191590d6456da4b61e93ed4995bbc51188b975229f77b84a400ed42e96a2ebe96f4e68be74cf341c0ea04324d6167866eea288bac52bd6ea1325d5226
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: 7e9ac72191590d6456da4b61e93ed4995bbc51188b975229f77b84a400ed42e96a2ebe96f4e68be74cf341c0ea04324d6167866eea288bac52bd6ea1325d5226
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: 7e9ac72191590d6456da4b61e93ed4995bbc51188b975229f77b84a400ed42e96a2ebe96f4e68be74cf341c0ea04324d6167866eea288bac52bd6ea1325d5226
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: 7e9ac72191590d6456da4b61e93ed4995bbc51188b975229f77b84a400ed42e96a2ebe96f4e68be74cf341c0ea04324d6167866eea288bac52bd6ea1325d5226
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: 7e9ac72191590d6456da4b61e93ed4995bbc51188b975229f77b84a400ed42e96a2ebe96f4e68be74cf341c0ea04324d6167866eea288bac52bd6ea1325d5226
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: 7e9ac72191590d6456da4b61e93ed4995bbc51188b975229f77b84a400ed42e96a2ebe96f4e68be74cf341c0ea04324d6167866eea288bac52bd6ea1325d5226
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: 7e9ac72191590d6456da4b61e93ed4995bbc51188b975229f77b84a400ed42e96a2ebe96f4e68be74cf341c0ea04324d6167866eea288bac52bd6ea1325d5226
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: 7e9ac72191590d6456da4b61e93ed4995bbc51188b975229f77b84a400ed42e96a2ebe96f4e68be74cf341c0ea04324d6167866eea288bac52bd6ea1325d5226
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: 7e9ac72191590d6456da4b61e93ed4995bbc51188b975229f77b84a400ed42e96a2ebe96f4e68be74cf341c0ea04324d6167866eea288bac52bd6ea1325d5226
+---
+PHPSESSID (reg): bc760b8ffd55fc9d8f76367c78c50224
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: 7e9ac72191590d6456da4b61e93ed4995bbc51188b975229f77b84a400ed42e96a2ebe96f4e68be74cf341c0ea04324d6167866eea288bac52bd6ea1325d5226
+Сессия CSRF-токена: 7e9ac72191590d6456da4b61e93ed4995bbc51188b975229f77b84a400ed42e96a2ebe96f4e68be74cf341c0ea04324d6167866eea288bac52bd6ea1325d5226
+JSON тело: {"login":"","mail":"","password":""}
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: 7e9ac72191590d6456da4b61e93ed4995bbc51188b975229f77b84a400ed42e96a2ebe96f4e68be74cf341c0ea04324d6167866eea288bac52bd6ea1325d5226
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: 7e9ac72191590d6456da4b61e93ed4995bbc51188b975229f77b84a400ed42e96a2ebe96f4e68be74cf341c0ea04324d6167866eea288bac52bd6ea1325d5226
+---
+PHPSESSID (reg): 3e3aa9a82d100dd29ab09c16251b85af
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: 7e9ac72191590d6456da4b61e93ed4995bbc51188b975229f77b84a400ed42e96a2ebe96f4e68be74cf341c0ea04324d6167866eea288bac52bd6ea1325d5226
+Сессия CSRF-токена: 7e9ac72191590d6456da4b61e93ed4995bbc51188b975229f77b84a400ed42e96a2ebe96f4e68be74cf341c0ea04324d6167866eea288bac52bd6ea1325d5226
+JSON тело: {"login":"","mail":"","password":""}
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: 7e9ac72191590d6456da4b61e93ed4995bbc51188b975229f77b84a400ed42e96a2ebe96f4e68be74cf341c0ea04324d6167866eea288bac52bd6ea1325d5226
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: 7e9ac72191590d6456da4b61e93ed4995bbc51188b975229f77b84a400ed42e96a2ebe96f4e68be74cf341c0ea04324d6167866eea288bac52bd6ea1325d5226
+---
+PHPSESSID (reg): 382a5888da8956d7c8c1048dacea19c4
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: 7e9ac72191590d6456da4b61e93ed4995bbc51188b975229f77b84a400ed42e96a2ebe96f4e68be74cf341c0ea04324d6167866eea288bac52bd6ea1325d5226
+Сессия CSRF-токена: 7e9ac72191590d6456da4b61e93ed4995bbc51188b975229f77b84a400ed42e96a2ebe96f4e68be74cf341c0ea04324d6167866eea288bac52bd6ea1325d5226
+JSON тело: {"login":"","mail":"","password":""}
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: 7e9ac72191590d6456da4b61e93ed4995bbc51188b975229f77b84a400ed42e96a2ebe96f4e68be74cf341c0ea04324d6167866eea288bac52bd6ea1325d5226
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: 7e9ac72191590d6456da4b61e93ed4995bbc51188b975229f77b84a400ed42e96a2ebe96f4e68be74cf341c0ea04324d6167866eea288bac52bd6ea1325d5226
+---
+PHPSESSID (reg): c608f108562341b772cd83b1ac8baa87
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: 7e9ac72191590d6456da4b61e93ed4995bbc51188b975229f77b84a400ed42e96a2ebe96f4e68be74cf341c0ea04324d6167866eea288bac52bd6ea1325d5226
+Сессия CSRF-токена: 7e9ac72191590d6456da4b61e93ed4995bbc51188b975229f77b84a400ed42e96a2ebe96f4e68be74cf341c0ea04324d6167866eea288bac52bd6ea1325d5226
+JSON тело: {"login":"","mail":"","password":""}
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: 7e9ac72191590d6456da4b61e93ed4995bbc51188b975229f77b84a400ed42e96a2ebe96f4e68be74cf341c0ea04324d6167866eea288bac52bd6ea1325d5226
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: 7e9ac72191590d6456da4b61e93ed4995bbc51188b975229f77b84a400ed42e96a2ebe96f4e68be74cf341c0ea04324d6167866eea288bac52bd6ea1325d5226
+---
+PHPSESSID (reg): 728c9c15d416e238d31f180fa41979c1
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: 7e9ac72191590d6456da4b61e93ed4995bbc51188b975229f77b84a400ed42e96a2ebe96f4e68be74cf341c0ea04324d6167866eea288bac52bd6ea1325d5226
+Сессия CSRF-токена: 7e9ac72191590d6456da4b61e93ed4995bbc51188b975229f77b84a400ed42e96a2ebe96f4e68be74cf341c0ea04324d6167866eea288bac52bd6ea1325d5226
+JSON тело: {"login":"","mail":"","password":""}
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: 7e9ac72191590d6456da4b61e93ed4995bbc51188b975229f77b84a400ed42e96a2ebe96f4e68be74cf341c0ea04324d6167866eea288bac52bd6ea1325d5226
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: 7e9ac72191590d6456da4b61e93ed4995bbc51188b975229f77b84a400ed42e96a2ebe96f4e68be74cf341c0ea04324d6167866eea288bac52bd6ea1325d5226
+---
+PHPSESSID (reg): dc516642b2e12e355a189f3ff233b509
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: 7e9ac72191590d6456da4b61e93ed4995bbc51188b975229f77b84a400ed42e96a2ebe96f4e68be74cf341c0ea04324d6167866eea288bac52bd6ea1325d5226
+Сессия CSRF-токена: 7e9ac72191590d6456da4b61e93ed4995bbc51188b975229f77b84a400ed42e96a2ebe96f4e68be74cf341c0ea04324d6167866eea288bac52bd6ea1325d5226
+JSON тело: {"login":"metallica8sadfasfafa1sadfa","mail":"usdfjaffasdfasfsafasfd@gmail.com","password":"asdfasfsd3252353252345"}
+Успешное подключение к БД
+Проверяем занятость логина/почты...
+Хэш пароля создан
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: c23c8a39ef7539a854a79fb31dea96fc661e276be9e1db045feb02ba6511eea69a3c0e94285e74e7e2af339a5efbc62a41ffc5636e34dfcca4e9665540881161
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: c23c8a39ef7539a854a79fb31dea96fc661e276be9e1db045feb02ba6511eea69a3c0e94285e74e7e2af339a5efbc62a41ffc5636e34dfcca4e9665540881161
+---
+PHPSESSID (reg): 417b6a48f4be12557e5ecdf07b8f66ea
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: c23c8a39ef7539a854a79fb31dea96fc661e276be9e1db045feb02ba6511eea69a3c0e94285e74e7e2af339a5efbc62a41ffc5636e34dfcca4e9665540881161
+Сессия CSRF-токена: c23c8a39ef7539a854a79fb31dea96fc661e276be9e1db045feb02ba6511eea69a3c0e94285e74e7e2af339a5efbc62a41ffc5636e34dfcca4e9665540881161
+JSON тело: {"login":"","mail":"","password":""}
+---
+PHPSESSID (reg): 9d01f6caf534fc1df8f5a94e350d0883
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: c23c8a39ef7539a854a79fb31dea96fc661e276be9e1db045feb02ba6511eea69a3c0e94285e74e7e2af339a5efbc62a41ffc5636e34dfcca4e9665540881161
+Сессия CSRF-токена: c23c8a39ef7539a854a79fb31dea96fc661e276be9e1db045feb02ba6511eea69a3c0e94285e74e7e2af339a5efbc62a41ffc5636e34dfcca4e9665540881161
+JSON тело: {"login":"metallica81ssdfaadfa","mail":"usasdfasfdfjfasfasfaf@gmail.com","password":"sadfasfsa3425235235"}
+Успешное подключение к БД
+Проверяем занятость логина/почты...
+Хэш пароля создан
+---
+PHPSESSID (reg): 749c95f95a9aa512b22e376aac5bc39d
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: c23c8a39ef7539a854a79fb31dea96fc661e276be9e1db045feb02ba6511eea69a3c0e94285e74e7e2af339a5efbc62a41ffc5636e34dfcca4e9665540881161
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: c23c8a39ef7539a854a79fb31dea96fc661e276be9e1db045feb02ba6511eea69a3c0e94285e74e7e2af339a5efbc62a41ffc5636e34dfcca4e9665540881161
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): b56a79fc54dc9e25f2b828711447cb0f
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: c23c8a39ef7539a854a79fb31dea96fc661e276be9e1db045feb02ba6511eea69a3c0e94285e74e7e2af339a5efbc62a41ffc5636e34dfcca4e9665540881161
+Сессия CSRF-токена: нет
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: 3404cd9dde10a66ac45539357b8098292fbbdf86ec878de56a1f995538c64b6cc64a3ae05b98fd75917331a17e6d4abf0724845fe6b620f6d49fad73017a3dcc
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: 3404cd9dde10a66ac45539357b8098292fbbdf86ec878de56a1f995538c64b6cc64a3ae05b98fd75917331a17e6d4abf0724845fe6b620f6d49fad73017a3dcc
+---
+PHPSESSID (reg): 679fa4786603d370b9becb2d6b83b2b2
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: 3404cd9dde10a66ac45539357b8098292fbbdf86ec878de56a1f995538c64b6cc64a3ae05b98fd75917331a17e6d4abf0724845fe6b620f6d49fad73017a3dcc
+Сессия CSRF-токена: 3404cd9dde10a66ac45539357b8098292fbbdf86ec878de56a1f995538c64b6cc64a3ae05b98fd75917331a17e6d4abf0724845fe6b620f6d49fad73017a3dcc
+JSON тело: {"login":"","mail":"","password":""}
+---
+PHPSESSID (reg): 53f0671709ea458c30189f817708b90d
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: 3404cd9dde10a66ac45539357b8098292fbbdf86ec878de56a1f995538c64b6cc64a3ae05b98fd75917331a17e6d4abf0724845fe6b620f6d49fad73017a3dcc
+Сессия CSRF-токена: 3404cd9dde10a66ac45539357b8098292fbbdf86ec878de56a1f995538c64b6cc64a3ae05b98fd75917331a17e6d4abf0724845fe6b620f6d49fad73017a3dcc
+JSON тело: {"login":"metallisdfasfca81sadfa","mail":"usdfjaaf@gmail.com","password":"asdfsaf23452352352"}
+Успешное подключение к БД
+Проверяем занятость логина/почты...
+Хэш пароля создан
+---
+PHPSESSID (reg): a8ac4573f8d70c2d59dbf430be161ce3
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: 3404cd9dde10a66ac45539357b8098292fbbdf86ec878de56a1f995538c64b6cc64a3ae05b98fd75917331a17e6d4abf0724845fe6b620f6d49fad73017a3dcc
+Сессия CSRF-токена: нет
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: 68a0b9a2a77dfe41d89b5b7a95fd8888a06c92c30d8a07029e8cc3fbe65fd63debebb139a96761ad2eced8852f8d41da5fb0237206cb11e5019b6dd277410952
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: 68a0b9a2a77dfe41d89b5b7a95fd8888a06c92c30d8a07029e8cc3fbe65fd63debebb139a96761ad2eced8852f8d41da5fb0237206cb11e5019b6dd277410952
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: 68a0b9a2a77dfe41d89b5b7a95fd8888a06c92c30d8a07029e8cc3fbe65fd63debebb139a96761ad2eced8852f8d41da5fb0237206cb11e5019b6dd277410952
+---
+PHPSESSID (reg): 3f57fd2b784f9ecb975502f7d8afea82
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: 68a0b9a2a77dfe41d89b5b7a95fd8888a06c92c30d8a07029e8cc3fbe65fd63debebb139a96761ad2eced8852f8d41da5fb0237206cb11e5019b6dd277410952
+Сессия CSRF-токена: 68a0b9a2a77dfe41d89b5b7a95fd8888a06c92c30d8a07029e8cc3fbe65fd63debebb139a96761ad2eced8852f8d41da5fb0237206cb11e5019b6dd277410952
+JSON тело: {"login":"metallica8sdfsaf1sadfa","mail":"metallica92sadfasfasf3@gmail.com","password":"sdfsafsa3252353532"}
+Успешное подключение к БД
+Проверяем занятость логина/почты...
+Хэш пароля создан
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: fbec20e63fe377d2a9e97d9decc9e1d294d84181723e1196b089dfc53fb10f72414416ad2eaafde6e7f35cb49046decda6108804b7f18cfe7c05eea48644fbd7
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: fbec20e63fe377d2a9e97d9decc9e1d294d84181723e1196b089dfc53fb10f72414416ad2eaafde6e7f35cb49046decda6108804b7f18cfe7c05eea48644fbd7
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: fbec20e63fe377d2a9e97d9decc9e1d294d84181723e1196b089dfc53fb10f72414416ad2eaafde6e7f35cb49046decda6108804b7f18cfe7c05eea48644fbd7
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: fbec20e63fe377d2a9e97d9decc9e1d294d84181723e1196b089dfc53fb10f72414416ad2eaafde6e7f35cb49046decda6108804b7f18cfe7c05eea48644fbd7
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: fbec20e63fe377d2a9e97d9decc9e1d294d84181723e1196b089dfc53fb10f72414416ad2eaafde6e7f35cb49046decda6108804b7f18cfe7c05eea48644fbd7
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: fbec20e63fe377d2a9e97d9decc9e1d294d84181723e1196b089dfc53fb10f72414416ad2eaafde6e7f35cb49046decda6108804b7f18cfe7c05eea48644fbd7
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: fbec20e63fe377d2a9e97d9decc9e1d294d84181723e1196b089dfc53fb10f72414416ad2eaafde6e7f35cb49046decda6108804b7f18cfe7c05eea48644fbd7
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: fbec20e63fe377d2a9e97d9decc9e1d294d84181723e1196b089dfc53fb10f72414416ad2eaafde6e7f35cb49046decda6108804b7f18cfe7c05eea48644fbd7
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: fbec20e63fe377d2a9e97d9decc9e1d294d84181723e1196b089dfc53fb10f72414416ad2eaafde6e7f35cb49046decda6108804b7f18cfe7c05eea48644fbd7
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: fbec20e63fe377d2a9e97d9decc9e1d294d84181723e1196b089dfc53fb10f72414416ad2eaafde6e7f35cb49046decda6108804b7f18cfe7c05eea48644fbd7
+---
+PHPSESSID (reg): 088b76ef31eded8e7e35ce686549f0ce
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): e93e375b7d511fc2ec86254fb7fe3252
+Заголовок X-CSRF-Token: fbec20e63fe377d2a9e97d9decc9e1d294d84181723e1196b089dfc53fb10f72414416ad2eaafde6e7f35cb49046decda6108804b7f18cfe7c05eea48644fbd7
+Сессия CSRF-токена: fbec20e63fe377d2a9e97d9decc9e1d294d84181723e1196b089dfc53fb10f72414416ad2eaafde6e7f35cb49046decda6108804b7f18cfe7c05eea48644fbd7
+JSON тело: {"login":"metallica8safasfsadfsa1","mail":"metallifsdafasdfca9asdfdasf23@gmail.com","password":"sadfsadfdsa32532453253"}
+Успешное подключение к БД
+Проверяем занятость логина/почты...
+Хэш пароля создан
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: ac5bdb07f129dcefd79592330412e8dd71d797c96b8b25d950bc2d36a27e7ef69c6789436e9f6f3c30982065cbe6bd232816ddf91f358d71fc175b65e19e879f
+---
+PHPSESSID (csrf): e93e375b7d511fc2ec86254fb7fe3252
+Сгенерированный CSRF: ac5bdb07f129dcefd79592330412e8dd71d797c96b8b25d950bc2d36a27e7ef69c6789436e9f6f3c30982065cbe6bd232816ddf91f358d71fc175b65e19e879f
+---
+PHPSESSID (csrf): aa29c3505812c2ed72970806ebc426c9
+Сгенерированный CSRF: 52346048876cccb794ec1afa332ef338a725d3dfab7780c797d53d9727a1ecc416da43384d43df314a0819a06e4f4c7c5e73dc4cc6b59a30aa656315bbe42639
+---
+PHPSESSID (csrf): 5e7d8c74e2f094a63f49bca8fa348821
+Сгенерированный CSRF: 38a528f57751ceddae5e22dae19ada50088ac78ab60c1d5e5a6dbdf0c49d5e6598c3ae46cc0b0d1cf6c0c5924b0a27a923cb6db2537008be3baa81b604ce686d
+---
+PHPSESSID (reg): ca812f5c1e41779a52a27ba46b0b3a1d
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): 5e7d8c74e2f094a63f49bca8fa348821
+Заголовок X-CSRF-Token: 38a528f57751ceddae5e22dae19ada50088ac78ab60c1d5e5a6dbdf0c49d5e6598c3ae46cc0b0d1cf6c0c5924b0a27a923cb6db2537008be3baa81b604ce686d
+Сессия CSRF-токена: 38a528f57751ceddae5e22dae19ada50088ac78ab60c1d5e5a6dbdf0c49d5e6598c3ae46cc0b0d1cf6c0c5924b0a27a923cb6db2537008be3baa81b604ce686d
+JSON тело: {"login":"metallica8sdfasfsafasf1","mail":"metallicaasdfsafasf923@gmail.com","password":"adsfasdff135435345325"}
+Успешное подключение к БД
+Проверяем занятость логина/почты...
+Хэш пароля создан
+---
+PHPSESSID (csrf): 5e7d8c74e2f094a63f49bca8fa348821
+Сгенерированный CSRF: 698d6293ff8193313e292dc146a06a3dd626123db7efc2dd3ba329c44478e92baf3e569207d8f9be73289fe2bd838fd0964b163840fd63730a5f25f552b59c89
+---
+PHPSESSID (csrf): 5e7d8c74e2f094a63f49bca8fa348821
+Сгенерированный CSRF: 698d6293ff8193313e292dc146a06a3dd626123db7efc2dd3ba329c44478e92baf3e569207d8f9be73289fe2bd838fd0964b163840fd63730a5f25f552b59c89
+---
+PHPSESSID (csrf): 5e7d8c74e2f094a63f49bca8fa348821
+Сгенерированный CSRF: 698d6293ff8193313e292dc146a06a3dd626123db7efc2dd3ba329c44478e92baf3e569207d8f9be73289fe2bd838fd0964b163840fd63730a5f25f552b59c89
+---
+PHPSESSID (csrf): 5e7d8c74e2f094a63f49bca8fa348821
+Сгенерированный CSRF: 698d6293ff8193313e292dc146a06a3dd626123db7efc2dd3ba329c44478e92baf3e569207d8f9be73289fe2bd838fd0964b163840fd63730a5f25f552b59c89
+---
+PHPSESSID (csrf): 5e7d8c74e2f094a63f49bca8fa348821
+Сгенерированный CSRF: 698d6293ff8193313e292dc146a06a3dd626123db7efc2dd3ba329c44478e92baf3e569207d8f9be73289fe2bd838fd0964b163840fd63730a5f25f552b59c89
+---
+PHPSESSID (reg): 2ba50fefe19827e442dd90ec462e1165
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): 5e7d8c74e2f094a63f49bca8fa348821
+Заголовок X-CSRF-Token: 698d6293ff8193313e292dc146a06a3dd626123db7efc2dd3ba329c44478e92baf3e569207d8f9be73289fe2bd838fd0964b163840fd63730a5f25f552b59c89
+Сессия CSRF-токена: 698d6293ff8193313e292dc146a06a3dd626123db7efc2dd3ba329c44478e92baf3e569207d8f9be73289fe2bd838fd0964b163840fd63730a5f25f552b59c89
+JSON тело: {"login":"metallica8asdfsfafas1sadfa","mail":"uasdfsadfassdfsdfsafjaf@gmail.com","password":"asdfasdfsafs3434253425234"}
+Успешное подключение к БД
+Проверяем занятость логина/почты...
+Хэш пароля создан
+---
+PHPSESSID (csrf): 5e7d8c74e2f094a63f49bca8fa348821
+Сгенерированный CSRF: f4293ce13f12b75f9d8686915cece5614f0a3a291005f2c37f25f432047969372faa230f74a1fe7400a3b3ef703e1e84bb80574ac9cdb910e8e256e12a613c6c
+---
+PHPSESSID (csrf): 5e7d8c74e2f094a63f49bca8fa348821
+Сгенерированный CSRF: f4293ce13f12b75f9d8686915cece5614f0a3a291005f2c37f25f432047969372faa230f74a1fe7400a3b3ef703e1e84bb80574ac9cdb910e8e256e12a613c6c
+---
+PHPSESSID (csrf): 5e7d8c74e2f094a63f49bca8fa348821
+Сгенерированный CSRF: f4293ce13f12b75f9d8686915cece5614f0a3a291005f2c37f25f432047969372faa230f74a1fe7400a3b3ef703e1e84bb80574ac9cdb910e8e256e12a613c6c
+---
+PHPSESSID (csrf): 5e7d8c74e2f094a63f49bca8fa348821
+Сгенерированный CSRF: f4293ce13f12b75f9d8686915cece5614f0a3a291005f2c37f25f432047969372faa230f74a1fe7400a3b3ef703e1e84bb80574ac9cdb910e8e256e12a613c6c
+---
+PHPSESSID (csrf): 5e7d8c74e2f094a63f49bca8fa348821
+Сгенерированный CSRF: f4293ce13f12b75f9d8686915cece5614f0a3a291005f2c37f25f432047969372faa230f74a1fe7400a3b3ef703e1e84bb80574ac9cdb910e8e256e12a613c6c
+---
+PHPSESSID (reg): 5cf9218d652b3f998ea7ae2905a43df3
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): 5e7d8c74e2f094a63f49bca8fa348821
+Заголовок X-CSRF-Token: f4293ce13f12b75f9d8686915cece5614f0a3a291005f2c37f25f432047969372faa230f74a1fe7400a3b3ef703e1e84bb80574ac9cdb910e8e256e12a613c6c
+Сессия CSRF-токена: f4293ce13f12b75f9d8686915cece5614f0a3a291005f2c37f25f432047969372faa230f74a1fe7400a3b3ef703e1e84bb80574ac9cdb910e8e256e12a613c6c
+JSON тело: {"login":"metallica8asdffasf1sadfa","mail":"usdfjasadfdsfasffdasf@gmail.com","password":"asdfsadfsadf35423523532"}
+Успешное подключение к БД
+Проверяем занятость логина/почты...
+Хэш пароля создан
+---
+PHPSESSID (csrf): 5e7d8c74e2f094a63f49bca8fa348821
+Сгенерированный CSRF: 2e2b4e9dd6b1aa718ec63e491f84e67075b551e4f12a1447aebb1d7123dabac3a6cb3613e6a36eb2ed5e327f5f32db1e2ecd2bdb349f0fb06cfe9cb6bf7036c6
+---
+PHPSESSID (csrf): 5e7d8c74e2f094a63f49bca8fa348821
+Сгенерированный CSRF: 2e2b4e9dd6b1aa718ec63e491f84e67075b551e4f12a1447aebb1d7123dabac3a6cb3613e6a36eb2ed5e327f5f32db1e2ecd2bdb349f0fb06cfe9cb6bf7036c6
+---
+PHPSESSID (csrf): 03f040023b7330dddbe3aa9e668f7aa1
+Сгенерированный CSRF: 37bca9cef0b5769a405265ed84c6553b2f8276147482233f196d63edbfb3a6e49fd59f8efa776f7ef5f4cc5956842419e414dca804594eea47ca54b3d54815ec
+---
+PHPSESSID (csrf): b6aaedd3b901dc3b4942c4333e48f40c
+Сгенерированный CSRF: d071e11e1c6650237dd3acc2f05e2c875277e88a39828ab2a4e03438f89769d8f995c2d3436f47f08fa97d6439b2c63ea6609916846155c21b0907e90c7643c5
+---
+PHPSESSID (csrf): b6aaedd3b901dc3b4942c4333e48f40c
+Сгенерированный CSRF: d071e11e1c6650237dd3acc2f05e2c875277e88a39828ab2a4e03438f89769d8f995c2d3436f47f08fa97d6439b2c63ea6609916846155c21b0907e90c7643c5
+---
+PHPSESSID (csrf): b6aaedd3b901dc3b4942c4333e48f40c
+Сгенерированный CSRF: d071e11e1c6650237dd3acc2f05e2c875277e88a39828ab2a4e03438f89769d8f995c2d3436f47f08fa97d6439b2c63ea6609916846155c21b0907e90c7643c5
+---
+PHPSESSID (reg): b8cab6595a66fc9dd25c0307e01ca545
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): b6aaedd3b901dc3b4942c4333e48f40c
+Заголовок X-CSRF-Token: d071e11e1c6650237dd3acc2f05e2c875277e88a39828ab2a4e03438f89769d8f995c2d3436f47f08fa97d6439b2c63ea6609916846155c21b0907e90c7643c5
+Сессия CSRF-токена: d071e11e1c6650237dd3acc2f05e2c875277e88a39828ab2a4e03438f89769d8f995c2d3436f47f08fa97d6439b2c63ea6609916846155c21b0907e90c7643c5
+JSON тело: {"login":"metallica8fsdfsafasfsaf1","mail":"asfasf@gmail.com","password":"asfasf32453252"}
+Успешное подключение к БД
+Проверяем занятость логина/почты...
+Хэш пароля создан
+---
+PHPSESSID (csrf): b6aaedd3b901dc3b4942c4333e48f40c
+Сгенерированный CSRF: 30e5e230275e4a660e3e776f134766b607210e0583f5b63af4a509863bbfe3e26fc9fdd08a39ef136bbd9398bd87804f7aabc3140f7933bcf1efe9d27ce3b8a2
+---
+PHPSESSID (csrf): b6aaedd3b901dc3b4942c4333e48f40c
+Сгенерированный CSRF: 30e5e230275e4a660e3e776f134766b607210e0583f5b63af4a509863bbfe3e26fc9fdd08a39ef136bbd9398bd87804f7aabc3140f7933bcf1efe9d27ce3b8a2
+---
+PHPSESSID (reg): c5a1d2b18886716be06fd2ba5cc39bc5
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): b6aaedd3b901dc3b4942c4333e48f40c
+Заголовок X-CSRF-Token: 30e5e230275e4a660e3e776f134766b607210e0583f5b63af4a509863bbfe3e26fc9fdd08a39ef136bbd9398bd87804f7aabc3140f7933bcf1efe9d27ce3b8a2
+Сессия CSRF-токена: 30e5e230275e4a660e3e776f134766b607210e0583f5b63af4a509863bbfe3e26fc9fdd08a39ef136bbd9398bd87804f7aabc3140f7933bcf1efe9d27ce3b8a2
+JSON тело: {"login":"metallica81","mail":null,"password":"ывафа2235"}
+---
+PHPSESSID (csrf): b6aaedd3b901dc3b4942c4333e48f40c
+Сгенерированный CSRF: 30e5e230275e4a660e3e776f134766b607210e0583f5b63af4a509863bbfe3e26fc9fdd08a39ef136bbd9398bd87804f7aabc3140f7933bcf1efe9d27ce3b8a2
+---
+PHPSESSID (csrf): b6aaedd3b901dc3b4942c4333e48f40c
+Сгенерированный CSRF: 30e5e230275e4a660e3e776f134766b607210e0583f5b63af4a509863bbfe3e26fc9fdd08a39ef136bbd9398bd87804f7aabc3140f7933bcf1efe9d27ce3b8a2
+---
+PHPSESSID (csrf): b6aaedd3b901dc3b4942c4333e48f40c
+Сгенерированный CSRF: 30e5e230275e4a660e3e776f134766b607210e0583f5b63af4a509863bbfe3e26fc9fdd08a39ef136bbd9398bd87804f7aabc3140f7933bcf1efe9d27ce3b8a2
+---
+PHPSESSID (csrf): b6aaedd3b901dc3b4942c4333e48f40c
+Сгенерированный CSRF: 30e5e230275e4a660e3e776f134766b607210e0583f5b63af4a509863bbfe3e26fc9fdd08a39ef136bbd9398bd87804f7aabc3140f7933bcf1efe9d27ce3b8a2
+---
+PHPSESSID (csrf): b6aaedd3b901dc3b4942c4333e48f40c
+Сгенерированный CSRF: 30e5e230275e4a660e3e776f134766b607210e0583f5b63af4a509863bbfe3e26fc9fdd08a39ef136bbd9398bd87804f7aabc3140f7933bcf1efe9d27ce3b8a2
+---
+PHPSESSID (csrf): b6aaedd3b901dc3b4942c4333e48f40c
+Сгенерированный CSRF: 30e5e230275e4a660e3e776f134766b607210e0583f5b63af4a509863bbfe3e26fc9fdd08a39ef136bbd9398bd87804f7aabc3140f7933bcf1efe9d27ce3b8a2
+---
+PHPSESSID (csrf): b6aaedd3b901dc3b4942c4333e48f40c
+Сгенерированный CSRF: 30e5e230275e4a660e3e776f134766b607210e0583f5b63af4a509863bbfe3e26fc9fdd08a39ef136bbd9398bd87804f7aabc3140f7933bcf1efe9d27ce3b8a2
+---
+PHPSESSID (csrf): b6aaedd3b901dc3b4942c4333e48f40c
+Сгенерированный CSRF: 30e5e230275e4a660e3e776f134766b607210e0583f5b63af4a509863bbfe3e26fc9fdd08a39ef136bbd9398bd87804f7aabc3140f7933bcf1efe9d27ce3b8a2
+Успешное подключение к БД
+---
+PHPSESSID (csrf): b6aaedd3b901dc3b4942c4333e48f40c
+Сгенерированный CSRF: 30e5e230275e4a660e3e776f134766b607210e0583f5b63af4a509863bbfe3e26fc9fdd08a39ef136bbd9398bd87804f7aabc3140f7933bcf1efe9d27ce3b8a2
+Успешное подключение к БД
+Успешное подключение к БД
+---
+PHPSESSID (csrf): b6aaedd3b901dc3b4942c4333e48f40c
+Сгенерированный CSRF: 30e5e230275e4a660e3e776f134766b607210e0583f5b63af4a509863bbfe3e26fc9fdd08a39ef136bbd9398bd87804f7aabc3140f7933bcf1efe9d27ce3b8a2
+---
+PHPSESSID (csrf): b6aaedd3b901dc3b4942c4333e48f40c
+Сгенерированный CSRF: 30e5e230275e4a660e3e776f134766b607210e0583f5b63af4a509863bbfe3e26fc9fdd08a39ef136bbd9398bd87804f7aabc3140f7933bcf1efe9d27ce3b8a2
+Успешное подключение к БД
+Успешное подключение к БД
+---
+PHPSESSID (csrf): b6aaedd3b901dc3b4942c4333e48f40c
+Сгенерированный CSRF: 30e5e230275e4a660e3e776f134766b607210e0583f5b63af4a509863bbfe3e26fc9fdd08a39ef136bbd9398bd87804f7aabc3140f7933bcf1efe9d27ce3b8a2
+---
+PHPSESSID (csrf): b6aaedd3b901dc3b4942c4333e48f40c
+Сгенерированный CSRF: 30e5e230275e4a660e3e776f134766b607210e0583f5b63af4a509863bbfe3e26fc9fdd08a39ef136bbd9398bd87804f7aabc3140f7933bcf1efe9d27ce3b8a2
+Успешное подключение к БД
+Успешное подключение к БД
+---
+PHPSESSID (csrf): b6aaedd3b901dc3b4942c4333e48f40c
+Сгенерированный CSRF: 30e5e230275e4a660e3e776f134766b607210e0583f5b63af4a509863bbfe3e26fc9fdd08a39ef136bbd9398bd87804f7aabc3140f7933bcf1efe9d27ce3b8a2
+---
+PHPSESSID (csrf): b6aaedd3b901dc3b4942c4333e48f40c
+Сгенерированный CSRF: 30e5e230275e4a660e3e776f134766b607210e0583f5b63af4a509863bbfe3e26fc9fdd08a39ef136bbd9398bd87804f7aabc3140f7933bcf1efe9d27ce3b8a2
+---
+PHPSESSID (reg): c872719587f51ba41ae33fb171ab2bff
+Заголовок X-CSRF-Token: нет
+Сессия CSRF-токена: нет
+---
+PHPSESSID (reg): b6aaedd3b901dc3b4942c4333e48f40c
+Заголовок X-CSRF-Token: 30e5e230275e4a660e3e776f134766b607210e0583f5b63af4a509863bbfe3e26fc9fdd08a39ef136bbd9398bd87804f7aabc3140f7933bcf1efe9d27ce3b8a2
+Сессия CSRF-токена: 30e5e230275e4a660e3e776f134766b607210e0583f5b63af4a509863bbfe3e26fc9fdd08a39ef136bbd9398bd87804f7aabc3140f7933bcf1efe9d27ce3b8a2
+JSON тело: {"login":"metallica811","mail":"metallicsadfasa923@gmail.com","password":"qwert12345"}
+Успешное подключение к БД
+Проверяем занятость логина/почты...
+Хэш пароля создан
+---
+PHPSESSID (csrf): b6aaedd3b901dc3b4942c4333e48f40c
+Сгенерированный CSRF: fa0f1e9bc10d0d1d9dcaea20e0eb29a1f4f59c72dc073c078d29f994dd1b3f2911f495074bb9e0f72f953bc203e4ad0c689d9969d8b0c281a0c2c4610214b72b
+---
+PHPSESSID (csrf): b6aaedd3b901dc3b4942c4333e48f40c
+Сгенерированный CSRF: fa0f1e9bc10d0d1d9dcaea20e0eb29a1f4f59c72dc073c078d29f994dd1b3f2911f495074bb9e0f72f953bc203e4ad0c689d9969d8b0c281a0c2c4610214b72b
+Успешное подключение к БД
+---
+PHPSESSID (csrf): b6aaedd3b901dc3b4942c4333e48f40c
+Сгенерированный CSRF: 535d093faad8c6f0017712619fecef80ce9dc9a6a1b43705a3c0f58a2144aada29c7d55c91adde9e13a7ddc96dce049152800e9dae3626fdc23baa1bee4ade63
+Успешное подключение к БД
+---
+PHPSESSID (csrf): b6aaedd3b901dc3b4942c4333e48f40c
+Сгенерированный CSRF: 4ff5a63956a0613e82359b64d941bd0ccd5f9fadfb317d60efc33550c724488516873308bf6caecd76659b61af3efaa3809e8505a1e0862239734e3fbb80ee4b
+Успешное подключение к БД
+---
+PHPSESSID (csrf): b6aaedd3b901dc3b4942c4333e48f40c
+Сгенерированный CSRF: db5ea96b787f61c07e70801c0bf4fa4937a67ea7b4c66eec87093f2c12e0ace930c32f51ed7923b00d5d872ede8860f91aaf4333b01d13e8825ade706058fa5e
+Успешное подключение к БД
+---
+PHPSESSID (csrf): b6aaedd3b901dc3b4942c4333e48f40c
+Сгенерированный CSRF: 3c14a3158e4cb3a91a7ea0f01a87088b9f48c1fbeaa3e932d58f36ad3670f29d0eb4404119f2a5869029b1a3f24533c3c8691b72005e95ecb758bd9df2872766
+Успешное подключение к БД
+---
+PHPSESSID (csrf): b6aaedd3b901dc3b4942c4333e48f40c
+Сгенерированный CSRF: 461973e565699c0bb9f27bb8720d32b0043acc75042334eb38d5a9d8dcc6de468f6730c3f1c3a29046494d0b58cefd1469cbbc595ef15037e8ecd8798455165b
+Успешное подключение к БД
+---
+PHPSESSID (csrf): b6aaedd3b901dc3b4942c4333e48f40c
+Сгенерированный CSRF: 009f807ea35759a4717985d9fc49a6e9c40cf8da75890f30ff47816861d9084de15c839d058a2c3ee9878dabffd739dddf04e67f0b0b1b743319509199bd2a09
+Успешное подключение к БД
+---
+PHPSESSID (csrf): b6aaedd3b901dc3b4942c4333e48f40c
+Сгенерированный CSRF: a1b3c9e51f51e66f0ebef456d2e46f855bf61acce3bf84e221e3caf77929ff2ceb891f9789ea98d2b5db9bc3e5ef0a9e52594c77070cad8354f0bc093e2e116d
+---
+PHPSESSID (csrf): b6aaedd3b901dc3b4942c4333e48f40c
+Сгенерированный CSRF: a1b3c9e51f51e66f0ebef456d2e46f855bf61acce3bf84e221e3caf77929ff2ceb891f9789ea98d2b5db9bc3e5ef0a9e52594c77070cad8354f0bc093e2e116d
+Успешное подключение к БД
+---
+PHPSESSID (csrf): b6aaedd3b901dc3b4942c4333e48f40c
+Сгенерированный CSRF: 301991c06af2188fe17aaec0cc88b8aa0170cd89dcf6e54570cf2bb32cd21fcd3f69787e9b2984470bf306827d38b90a807f72b48a62d41c803a4661e7685ff9
+Успешное подключение к БД
+---
+PHPSESSID (csrf): b6aaedd3b901dc3b4942c4333e48f40c
+Сгенерированный CSRF: 8387b4520293cc75accaa3f051d0b5e622675fb310ffb0400bb6b764b147a436f45f74b752843884a08092ce208a6351226bc714e4338219d5409f7c71f9914f
+Успешное подключение к БД
