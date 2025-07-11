@@ -1,44 +1,46 @@
 <?php
 session_start();
 
-// === CORS ===
-$origin = 'http://localhost:3000'; // адрес фронта
+// CORS
+$origin = 'http://localhost:3000';
 header("Access-Control-Allow-Origin: $origin");
 header("Access-Control-Allow-Credentials: true");
 header("Access-Control-Allow-Headers: Content-Type, X-CSRF-Token");
 header("Access-Control-Allow-Methods: POST, OPTIONS");
 
-// === Preflight ===
+// Preflight
 if ($_SERVER['REQUEST_METHOD'] === 'OPTIONS') {
     http_response_code(200);
     exit;
 }
 
-// === Контент JSON ===
 header("Content-Type: application/json");
 
-// === Получаем JSON тело ===
 $data = json_decode(file_get_contents('php://input'), true);
 
-// === Проверка наличия ключей ===
 if (
     !isset($data['login']) ||
     !isset($data['password']) ||
     !isset($data['csrf_token'])
 ) {
+    http_response_code(400);
     echo json_encode([
         "success" => false,
-        "error" => "Не хватает данных"
+        "error" => "Не хватает данных",
+        "debug" => $data
     ]);
     exit;
 }
 
-// === Проверка CSRF ===
 if (!isset($_SESSION['csrf_token']) || $_SESSION['csrf_token'] !== $data['csrf_token']) {
     http_response_code(403);
     echo json_encode([
         "success" => false,
-        "error" => "Неверный CSRF-токен"
+        "error" => "Неверный CSRF-токен",
+        "debug" => [
+            "session_csrf" => $_SESSION['csrf_token'] ?? 'не установлен',
+            "request_csrf" => $data['csrf_token']
+        ]
     ]);
     exit;
 }
@@ -49,7 +51,6 @@ $password = $data['password'];
 require_once 'config.php';
 
 try {
-    // Ищем пользователя
     $stmt = $pdo->prepare("SELECT id, login, mail, password_hash FROM users WHERE login = ? OR mail = ?");
     $stmt->execute([$login, $login]);
     $user = $stmt->fetch(PDO::FETCH_ASSOC);
@@ -58,16 +59,21 @@ try {
         http_response_code(401);
         echo json_encode([
             "success" => false,
-            "error" => "Неверный логин или пароль"
+            "error" => "Неверный логин или пароль",
+            "debug" => "Пользователь не найден для: $login"
         ]);
         exit;
     }
+
+    error_log("Введённый пароль: $password");
+    error_log("Хеш из БД: " . $user['password_hash']);
 
     if (!password_verify($password, $user['password_hash'])) {
         http_response_code(401);
         echo json_encode([
             "success" => false,
-            "error" => "Неверный логин или пароль"
+            "error" => "Неверный логин или пароль",
+            "debug" => "password_verify вернул false"
         ]);
         exit;
     }
@@ -84,7 +90,8 @@ try {
     http_response_code(500);
     echo json_encode([
         "success" => false,
-        "error" => "Ошибка сервера"
+        "error" => "Ошибка сервера",
+        "debug" => $e->getMessage()
     ]);
 }
 ?>
